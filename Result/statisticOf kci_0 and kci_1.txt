@@ -1,0 +1,6 @@
+statistic of  kci_0 and kci_1  about mean(kci_0)-mean(kci_1) with significance level :  0.05 
+left interval :  -2819.10161265122   right interval :  1488.31902891917 
+
+statistic of  kci_0 and kci_1  about variance ratio var(kci_1)/var(kci_0)  with significance level :  0.05 
+left interval :  0.505080892366335   right interval :  3.99179615718429 
+

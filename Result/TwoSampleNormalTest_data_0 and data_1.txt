@@ -1,0 +1,9 @@
+hypothesis: their mathematical expectation is equal with significance level :  0.05  
+calculated |t| is :  0.621529555953399 
+table t is :  2.01174051372977 
+conclusion is :  mathematical expectations is equal 
+
+hypothesis: their varation is equal with significance level :  0.05  
+calculated f is :  1.89410391425784 
+left table f is :  0.413631705416697 right table f is  3.26904754689153 
+conclusion is :  varations is equal 

@@ -1,0 +1,4 @@
+hypothesis: normally distributed  data_0 
+calculated X2 is :  2.81710216195933 
+degrees of freedom is : 8 significance level is:  0.05  table X2 is:  15.5073130558655 
+conclusion is :  normally distributed 

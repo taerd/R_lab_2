@@ -1,0 +1,6 @@
+statistic of  kci_1  about mean  with significance level :  0.05 
+sample from normal distribution (shapiro test) with p-value :  0.158185129010315 
+left interval :  10018.8375776346   right interval :  12166.4413697338 
+
+statistic of  kci_1  about varation  with significance level :  0.05 
+left interval :  7093602.56603014   right interval :  17863617.9427975
